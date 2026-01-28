@@ -49,7 +49,7 @@ Built to showcase semantic HTML, modern CSS layout techniques, and UI polish.
 ![Byte & Brew Desktop](assets/images/byte-brew-desktop.png)
 
 ### Mobile View
-![Byte & Brew Mobile](assets/byte-brew-mobile.png)
+![Byte & Brew Mobile](assets/images/byte-brew-mobile.png)
 
 ---
 
