@@ -42,6 +42,12 @@ Built to showcase semantic HTML, modern CSS layout techniques, and UI polish.
   ## Mobile Screenshot
   ![Byte & Brew Mobile] <img width="337" height="819" alt="image" src="https://github.com/user-attachments/assets/4897eb76-c2b7-4158-b760-5a2f655e7c1a" />
 
+  ## What I Learned
+
+- Responsive layout with CSS Grid & Flexbox
+- Accessible HTML markup and focus states
+- Semantic UI structure
+
 
 ---
 
