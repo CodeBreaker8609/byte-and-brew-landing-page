@@ -34,6 +34,15 @@ Built to showcase semantic HTML, modern CSS layout techniques, and UI polish.
 - Add JavaScript-powered menu or ordering modal
 - Deploy via GitHub Pages
 
+  ## Screenshots
+
+  ## Desktop Screenshot
+ ![Byte & Brew Desktop]<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/521168ba-aca4-4ed8-9491-14f8aa09cc33" />
+
+  ## Mobile Screenshot
+  ![Byte & Brew Mobile] <img width="337" height="819" alt="image" src="https://github.com/user-attachments/assets/4897eb76-c2b7-4158-b760-5a2f655e7c1a" />
+
+
 ---
 
 Built as part of a front-end portfolio project.
