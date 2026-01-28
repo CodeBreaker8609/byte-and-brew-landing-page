@@ -46,7 +46,7 @@ Built to showcase semantic HTML, modern CSS layout techniques, and UI polish.
 ## 🖼️ Screenshots
 
 ### Desktop View
-![Byte & Brew Desktop](assets/byte-brew-desktop.png)
+![Byte & Brew Desktop](assets/Desktop Screenshot-Byte & Brew.png)
 
 ### Mobile View
 ![Byte & Brew Mobile](assets/byte-brew-mobile.png)
